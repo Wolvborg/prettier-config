@@ -1,7 +1,7 @@
 # prettier-config
-My Personal favourite prettier config. Just copy and paster it into your .prettierrc
+My Personal favourite prettier config. Just copy and paste it into your `.prettierrc` file
 
-```
+```json
 {
   "printWidth": 100,
   "tabWidth": 2,
